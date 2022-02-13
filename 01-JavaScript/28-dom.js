@@ -37,7 +37,8 @@ for(valor in todosLosDivs){
     document.querySelector("#miseccion").appendChild(parrafo);
 }
 
-//console.log(contenidoEnTexto);
+// .textContent -> Devuelve el texto contenido
+// . innerHTML -> permite modificar el texto
 
 console.log(todosLosDivs);
 
